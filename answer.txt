@@ -1,0 +1,18 @@
+1. gitignore file tells Git which files to ignore when committing your project to the GitHub repository. 
+
+A gitignore file file for JAVA project contains::
+
+.mtj.tmp/
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+hs_err_pid*
+
+2. The Git "Fast Forward" commnd means to update the HEAD pointer in such a way that its new value is a direct descendant of the prior value.
+
+3. Different branches in git allow developers to isolate their works from the other people and without messing with the main line. These branches can then be merged into the main line after review.
+
+4. A project usually have one remote git repo.
+
